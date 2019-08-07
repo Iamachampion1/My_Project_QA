@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/good-job.iml" filepath="$PROJECT_DIR$/.idea/modules/good-job.iml" group="good-job" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/good-job_main.iml" filepath="$PROJECT_DIR$/.idea/modules/good-job_main.iml" group="good-job" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/good-job_test.iml" filepath="$PROJECT_DIR$/.idea/modules/good-job_test.iml" group="good-job" />
+    </modules>
+  </component>
+</project>
